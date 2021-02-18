@@ -1,0 +1,11 @@
+requests
+easygui
+subprocess
+configparser
+scapy
+wget
+argparse
+colorama
+humanfriendly
+console.utils
+time
