@@ -1,5 +1,3 @@
-# Created by LimerBoy
-# Import modules
 import os
 import sys
 import argparse
